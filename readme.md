@@ -1,5 +1,11 @@
 Search and Send is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+## Node 
+- To check your current node installation use `node -v`
+- This build is running on `18.18.0`
+- To switch versions use `nvm ls` and `nvm use {version}`
+
 ## Getting Started
 
 First, run the development server:
