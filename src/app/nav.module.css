@@ -1,0 +1,22 @@
+.nav {
+  width: 50%;
+}
+
+.nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav li {
+  margin: 0;
+  padding: 0;
+}
+
+.nav li.logo {
+  margin-right: 250px;
+}
