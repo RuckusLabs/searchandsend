@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 8</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-8">
+            <g id="Group-6-Copy" fill="#272727">
+                <circle id="Oval" cx="25" cy="25" r="25"></circle>
+            </g>
+            <g id="check-circle" transform="translate(15, 15)" stroke="#3EEAD5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <path d="M20.0000565,9.08623485 L20.0000565,10.0062349 C19.9975243,14.4349207 17.0823504,18.3344478 12.8354089,19.5901358 C8.58846732,20.8458238 4.02145001,19.158547 1.61101155,15.4433012 C-0.799426916,11.7280554 -0.479080094,6.86987383 2.39833065,3.503307 C5.2757414,0.136740166 10.0247691,-0.936239861 14.0700565,0.866234854" id="Path"></path>
+                <polyline id="Path" points="20.0000565 2.00623485 10.0000565 12.0162349 7.00005646 9.01623485"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

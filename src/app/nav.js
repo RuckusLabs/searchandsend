@@ -1,14 +1,17 @@
+import Image from 'next/image';
 import styles from './nav.module.css';
+import Logo from '../../public/logos/sf-white.svg';
 
 export default function Nav() {
   return (
-    <nav class={styles.nav}>
-      <ul>
-        <li class={styles.logo}><a href="/"><img src="https://dummyimage.com/125x25" /></a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Clients</a></li>
-        <li><a href="#">Candidates</a></li>
-      </ul>
-    </nav>
+    <a href="https://www.staffingfitness.com" className={styles.nav} aria-label="Go back to StaffingFitness.com.">
+      ← Back to
+      <Image
+        priority
+        className={styles.linkLogo}
+        src={Logo}
+        alt="StaffingFitness.com"
+      />
+    </a>
   )
 }

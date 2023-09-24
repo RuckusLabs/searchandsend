@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-912, -1833)">
+            <g id="Group-5" transform="translate(696, 1824)">
+                <g id="Group" transform="translate(216, 9)">
+                    <circle id="Oval" fill="#3EEAD5" cx="10.5" cy="10.5" r="10.5"></circle>
+                    <g id="+" transform="translate(5, 5)" fill="#FFFFFF" fill-rule="nonzero">
+                        <path d="M1.00757924,6.50757924 L9.99242076,6.50757924 C10.5488914,6.50757924 11,6.05647065 11,5.5 C11,4.94352935 10.5488914,4.49242076 9.99242076,4.49242076 L1.00757924,4.49242076 C0.451108593,4.49242076 -6.81480001e-17,4.94352935 0,5.5 C6.81480001e-17,6.05647065 0.451108593,6.50757924 1.00757924,6.50757924 Z M5.49904821,11 C6.05707937,11 6.50945301,10.5476264 6.50945301,9.9895952 L6.50945301,1.0104048 C6.50945301,0.452373638 6.05707937,-1.02508661e-16 5.49904821,0 C4.94101705,1.02508661e-16 4.48864341,0.452373638 4.48864341,1.0104048 L4.48864341,9.9895952 C4.48864341,10.5476264 4.94101705,11 5.49904821,11 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

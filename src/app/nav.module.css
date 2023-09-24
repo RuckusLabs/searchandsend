@@ -1,22 +1,22 @@
 .nav {
-  width: 50%;
-}
-
-.nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-
+  width: 100%;
+  background: rgba(255, 255, 255, 0.1);
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
+  padding: 10px;
+  font-size: 12px;
+  font-weight: 600;
+
+  @media (prefers-color-scheme: light) {
+    background: rgba(0, 0, 0, 0.1);
+  }
 }
 
-.nav li {
-  margin: 0;
-  padding: 0;
-}
+.linkLogo {
+  margin-left: 10px;
 
-.nav li.logo {
-  margin-right: 250px;
+  @media (prefers-color-scheme: light) {
+    filter: invert(1);
+  }
 }
