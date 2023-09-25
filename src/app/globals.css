@@ -51,7 +51,6 @@ p, li {
   color: #86868B;
   font-size: 21px;
   line-height: 1.25;
-  
 }
 
 h3 + p {
@@ -70,6 +69,7 @@ p + p {
 
 html {
   font-family: 'Urbanist', sans-serif;
+  scroll-behavior: smooth;
 }
 
 @media (max-width: 700px) {
@@ -83,7 +83,7 @@ html {
     background: #EFEFEF;
     color: #141414;
   }
-  
+
   a:hover {
     color: #3EEAD5;
   }
