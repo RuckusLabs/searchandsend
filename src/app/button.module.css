@@ -10,11 +10,10 @@
 }
 
 @media (prefers-color-scheme: light) {
- .button {
+  .button {
     background-color: white;
     border: 1px solid #3EEAD5;
- }
-
+  }
 }
 
 .button img {
@@ -23,7 +22,7 @@
   transition-duration: 0.2s;
 }
 
-.button:hover img{
+.button:hover img {
   transform: translateX(5px);
 }
 

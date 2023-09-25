@@ -53,11 +53,11 @@ p, li {
   line-height: 1.25;
 }
 
-h3 + p {
+h3+p {
   margin-top: 25px;
 }
 
-p + p {
+p+p {
   margin-top: 15px;
 }
 
