@@ -19,6 +19,8 @@ export default function RootLayout({ children }) {
         <link href="https://fonts.googleapis.com/css2?family=Urbanist:wght@400;700&display=swap" rel="stylesheet" />
 
         <meta property="og:title" content="Search & Send by Staffing Fitness" />
+        <meta property="og:url" content="https://searchandsend.staffingfitness.com" />
+        <meta property="og:type" content="website" />
         <meta property="og:image" content="../../public/images/og/share.jpg" />
         <meta property="og:description" content="Find your next fitness studio hire with Search & Send by Staffing Fitness" />
 
