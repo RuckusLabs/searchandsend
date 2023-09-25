@@ -26,7 +26,7 @@ export default function Home() {
             alt="Search and Send by Staffing Fitness"
           /></h1>
           <h2 className={styles.heading}>You've found your studio's competitive edge.</h2>
-          <h4>Hire your coaches and hourly staff with ease.</h4>
+          <h4>Hire your coaches, instructors and group fitness experts with ease.</h4>
           <a href="#intro" className={button.button}>Learn more <Image
             priority
             alt="Right arrow icon"
