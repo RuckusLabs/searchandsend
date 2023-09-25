@@ -17,6 +17,11 @@ export default function RootLayout({ children }) {
       <meta name="msapplication-TileColor" content="#ffffff" />
       <meta name="theme-color" content="#ffffff" />
       <link href="https://fonts.googleapis.com/css2?family=Urbanist:wght@400;700&display=swap" rel="stylesheet" />
+
+        <meta property="og:title" content="Search & Send by Staffing Fitness" />
+        <meta property="og:image" content="../../public/images/og/share.jpg" />
+        <meta property="og:description" content="Find your next fitness studio hire with Search & Send by Staffing Fitness"/>
+
     </head>
       <body>{children}</body>
     </html>
