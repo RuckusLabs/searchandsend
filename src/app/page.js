@@ -39,7 +39,7 @@ export default function Home() {
         <section id="intro">
           <h3>Skip the noise and hire the best</h3>
           <p>Staffing Fitness' <Image priority className={styles.miniLogo} src={SearchAndSendMini} alt="Search and Send by Staffing Fitness" /> system helps personalize your recruitment strategy when hiring quality coaches and staff for your studio. </p>
-          <p>We believe in the quality of our candidates, not the quanity of resumes we deliver to you.</p>
+          <p>We believe in the quality of our candidates, not the quantity of resumes we deliver to you.</p>
         </section>
 
         <section>
@@ -51,7 +51,7 @@ export default function Home() {
             />
             <h3>We may already have who you're looking for.</h3>
             <hr />
-            <p>Staffing Fitness' Search & Send system helps personalize your recruitment strategy when hiring quality coaches and staff for your studio. Plus, with over 60,000 existing candiates in our pipeline, we may already have who you're looking for.</p>
+            <p>Staffing Fitness' Search & Send system helps personalize your recruitment strategy when hiring quality coaches and staff for your studio. Plus, with over 60,000 existing candidates in our pipeline, we may already have who you're looking for.</p>
           </article>
           <article>
             <Image
@@ -71,7 +71,7 @@ export default function Home() {
             />
             <h3>Take the stress out of it.</h3>
             <hr />
-            <p>We take care of the hard part of identifying and interviewing potential candidates with our detailed vetting process that's tailored to your specific needs. We only send candiates we genuinely think you'll love.</p>
+            <p>We take care of the hard part of identifying and interviewing potential candidates with our detailed vetting process that's tailored to your specific needs. We only send candidates we genuinely think you'll love.</p>
           </article>
           <a href="https://ptn8gqltkth.typeform.com/to/BZqvrzoJ" target="_blank" className={`${button.button} ${button.stickyButton}`}>Schedule Consultation <Image
             priority
