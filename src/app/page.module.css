@@ -6,6 +6,10 @@
   margin-bottom: 0;
 }
 
+.intro a {
+  margin-top: 40px;
+}
+
 .introLogo {
   margin-bottom: 100px;
   width: 100%;
