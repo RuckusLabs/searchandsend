@@ -31,8 +31,8 @@ export default function Home() {
             alt="Right arrow icon"
             src={IconRightArrow}
           /></a>
-          <Image className={styles.introImage1} src="/images/image-woman-stairs.jpg" alt="A woman running up bleacher stairs" width="416" height="655"/>
-          <Image className={styles.introImage2} src="/images/image-man.jpg" alt="A man doing a pullup" width="416" height="655"/>
+          <Image className={styles.introImage1} src="/images/image-woman-stairs.png" alt="A woman running up bleacher stairs" width="416" height="655"/>
+          <Image className={styles.introImage2} src="/images/image-man.png" alt="A man doing a pullup" width="416" height="655"/>
         </section>
 
         <section>

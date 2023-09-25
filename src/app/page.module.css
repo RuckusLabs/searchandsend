@@ -72,6 +72,8 @@
   .introImage1 {
     left: -180px;
     top: 310px;
+    margin-left: 0;
+    
     }
 
   .introImage2 { 
@@ -85,5 +87,25 @@
 
   .main article {
     padding: 25px;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+
+  
+  .introImage1, .introImage2 {
+    mix-blend-mode: soft-light;
+  }
+
+  .main hr {
+    background-color: black;
+  }
+
+  .main article hr {
+    background-color: black;
+  }
+
+  .main article {
+    background-color: white;
   }
 }

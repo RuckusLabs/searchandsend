@@ -9,6 +9,14 @@
   align-self: flex-start;
 }
 
+@media (prefers-color-scheme: light) {
+ .button {
+    background-color: white;
+    border: 1px solid #3EEAD5;
+ }
+
+}
+
 .button img {
   margin-bottom: 0;
   margin-left: 20px;
