@@ -59,9 +59,9 @@ export default function Home() {
               src={IconCheck}
               alt="Checkmark icon"
             />
-            <h3>Signed, sealed, and delivered.</h3>
+            <h3>Sourced, vetted, and delivered.</h3>
             <hr />
-            <p>We'll handle all the paperwork to make sure your new hire is ready to make an impact on their first day.</p>
+            <p>Don't post and pray any longer. Get top candidates delivered to your inbox with the help of AI and a head hunter.</p>
           </article>
           <article>
             <Image
