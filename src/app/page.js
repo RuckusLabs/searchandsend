@@ -26,7 +26,7 @@ export default function Home() {
             alt="Search and Send by Staffing Fitness"
           /></h1>
           <h2 className={styles.heading}>You've found your studio's competitive edge.</h2>
-          <a href="#" className={button.button}>Learn more <Image
+          <a href="#intro" className={button.button}>Learn more <Image
             priority
             alt="Right arrow icon"
             src={IconRightArrow}
@@ -35,9 +35,9 @@ export default function Home() {
           <Image className={styles.introImage2} src="/images/image-man.png" alt="A man doing a pullup" width="416" height="655"/>
         </section>
 
-        <section>
+        <section id="intro">
           <h3>Skip the noise and hire the best</h3>
-          <p>Staffing Fitness' <Image priority className={styles.miniLogo} src={SearchAndSendMini} alt="Search and Send by Staffing Fitness" /> system helps personalize your recruitment strategy when hiring quality coaches and staff for your studio.</p>
+          <p>Staffing Fitness' <Image priority className={styles.miniLogo} src={SearchAndSendMini} alt="Search and Send by Staffing Fitness" /> system helps personalize your recruitment strategy when hiring quality coaches and staff for your studio. </p>
           <p>We believe in the quality of our candidates, not the quanity of resumes we deliver to you.</p>
         </section>
 
@@ -50,7 +50,7 @@ export default function Home() {
             />
             <h3>We may already have who you're looking for.</h3>
             <hr />
-            <p>Staffing Fitness' Search & Send system helps personalize your recruitment strategy when hiring quality coaches and staff for your studio.</p>
+            <p>Staffing Fitness' Search & Send system helps personalize your recruitment strategy when hiring quality coaches and staff for your studio. Plus, with over 60,000 existing candiates in our pipeline, we may already have who you're looking for.</p>
             <p>We believe in the quality of our candidates, not the quanity of resumes we deliver to you.</p>
           </article>
           <article>
@@ -73,7 +73,7 @@ export default function Home() {
             <hr />
             <p>We take care of the hard part of identifying and interviewing potential candidates with our detailed vetting process that's tailored to your specific needs. We only send candiates we genuinely think you'll love.</p>
           </article>
-          <a href="" className={`${button.button} ${button.stickyButton}`}>Schedule Consultation <Image
+          <a href="https://ptn8gqltkth.typeform.com/to/BZqvrzoJ" target="_blank" className={`${button.button} ${button.stickyButton}`}>Schedule Consultation <Image
             priority
             alt="Plus icon"
             src={IconPlus}
